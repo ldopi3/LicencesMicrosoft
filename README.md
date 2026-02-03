@@ -1,4 +1,6 @@
 # LicencesMicrosoft
+
+scripts/Business_Premium_Copilot :
 Script pour gérer les attributions de licence Copilot pour un utilisateur qui dispose du Bundle Microsoft 365 Business Premium + Copilot :
 
 BP_Disable-CopilotPlans.ps1 : Désactive les applications Copilot dans le bundle de licence Microsoft Business Premium + Copilot pour un utilisateur.
